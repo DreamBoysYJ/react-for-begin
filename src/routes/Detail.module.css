@@ -1,0 +1,29 @@
+.container {
+  margin: 20px;
+  padding: 10px;
+}
+
+.title {
+  font-size: 40px;
+}
+
+.detail {
+  display: flex;
+}
+
+.text {
+  margin-left: 20px;
+}
+
+.genres {
+  list-style: none;
+  display: flex;
+  margin: 5px 0px;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.genres li {
+  margin: 5px;
+  font-weight: bolder;
+}
